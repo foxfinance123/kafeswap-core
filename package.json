@@ -5,7 +5,7 @@
   "homepage": "https://kafeswap.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxfinance123/kafe-swap-core.git"
+    "url": "https://github.com/foxfinance123/kafeswap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
