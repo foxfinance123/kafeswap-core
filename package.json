@@ -8,7 +8,7 @@
     "url": "https://github.com/foxfinance123/kafeswap-core.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "contracts",
