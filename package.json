@@ -1,14 +1,14 @@
 {
-  "name": "@kafeswap-libs/kafeswap-swap-core",
-  "description": "🎛 Core contracts for the kafeswap protocol",
+  "name": "@kafeswap-libs/kafe-swap-core",
+  "description": "🎛 Core contracts for the KafeSwap protocol",
   "version": "0.1.0",
   "homepage": "https://kafeswap.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxfinance123/kafeswap-core.git"
+    "url": "git+https://github.com/foxfinance123/kafe-swap-core.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "http://registry.npmjs.org"
   },
   "files": [
     "contracts",
@@ -46,5 +46,16 @@
     "truffle": "^5.1.41",
     "truffle-flattener": "^1.4.4",
     "truffle-hdwallet-provider": "^1.0.17"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/foxfinance123/kafe-swap-core/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "kafeswap"
+  ],
+  "author": "Kenny Yew"
 }

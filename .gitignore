@@ -1,2 +1,8 @@
 node_modules/
 build/
+test/
+.secret
+.secret2
+truffle-config.js
+yarn.lock
+.waffle.json
